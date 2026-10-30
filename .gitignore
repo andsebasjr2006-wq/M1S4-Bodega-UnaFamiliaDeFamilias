@@ -1,0 +1,7 @@
+# Ignorar carpetas de compilacion y binarios segun la consigna M1S4
+build/
+target/
+out/
+bin/
+node_modules/
+*.class
